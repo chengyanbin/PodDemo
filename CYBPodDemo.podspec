@@ -2,10 +2,10 @@
 Pod::Spec.new do |s|
 
   s.name         = "CYBPodDemo"
-  s.version      = "0.0.1"
+  s.version      = "0.1"
   s.summary      = "just a demo,ha ha ha "
   s.description  = <<-DESC
-    just demo
+    just demo cyb search me wo shi chengyanbin 
                    DESC
   s.homepage     = "https://github.com/chengyanbin/PodDemo"
   s.license      = "MIT"
